@@ -1,0 +1,11 @@
+Step 1
+
+Create a virtual environment
+python3 -m venv venv
+
+Activate the virtual environment
+source venv/bin/activate (for Ubuntu)
+
+Install all the requirements
+pip install -r requirements.txt
+apt-get install -r ubuntu_requirements.txt
